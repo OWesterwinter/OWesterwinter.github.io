@@ -1,0 +1,85 @@
+# Every entry must have a YEAR, a SEASON, an INSTITUTION, a LEVEL and a TITLE. SYLLABUS is optional.
+# However, you can name it like you want, but you have to stick to that level of detail, else the loop screws up.
+2017:
+  Spring:
+      University of St. Gallen:
+        graduate:
+          - title: "Social Science Methodology: Intermediate Statistics"
+            syllabus:
+          - title: "Social Science Methodology: Game Theory"
+            syllabus:
+        undergraduate:
+          - title: "Quantitative Methods"
+            syllabus:
+  Fall:
+      University of St. Gallen:
+        graduate:
+          - title:
+            syllabus:
+        undergraduate:
+          - title:
+            syllabus:
+        PhD:
+          - title:
+            syllabus:
+2016:
+  Spring:
+      University of St. Gallen:
+        graduate:
+          - title: "Social Science Methodology: Game Theory"
+            syllabus: "http://tools.unisg.ch/Handlers/public/CourseInformationSheet.ashx?Semester=FS16&EventNumber=8,398,1.00"
+        undergraduate:
+          - title: "Quantitative Methods"
+            syllabus: "http://tools.unisg.ch/Handlers/public/CourseInformationSheet.ashx?Semester=FS16&EventNumber=4,306,1.00"
+      GSERM Summer School:
+          PhD:
+            - title: "Workshop Lectures on Statistics with R"
+              syllabus: "http://www.gserm.ch/stgallen/course/workshop-lectures-on-statistics-with-r/"
+  Fall:
+      University of St. Gallen:
+        graduate:
+          - title: "International Cooperation"
+            syllabus: "http://tools.unisg.ch/Handlers/public/CourseInformationSheet.ashx?Semester=HS16&EventNumber=7,376,1.00"
+          - title: "Social Science Methodology: Network Analysis"
+            syllabus: "http://tools.unisg.ch/Handlers/public/CourseInformationSheet.ashx?Semester=HS15&EventNumber=7,363,1.00"
+        undergraduate:
+          - title:
+            syllabus:
+        PhD:
+          - title:
+            syllabus:
+2015:
+  Spring:
+      University of St. Gallen:
+        PhD:
+          - title:
+            syllabus:
+        graduate:
+          - title:
+            syllabus:
+        undergraduate:
+          - title: "Quantitative Methods"
+            syllabus: "http://tools.unisg.ch/Handlers/public/CourseInformationSheet.ashx?Semester=FS15&EventNumber=4,306,1.00"
+      Summer School:
+        - title:
+          syllabus:
+  Fall:
+      University of St. Gallen:
+        PhD:
+          - title:
+            syllabus:
+        graduate:
+          - title: "Social Science Methodology: Network Analysis"
+            syllabus: "http://tools.unisg.ch/Handlers/public/CourseInformationSheet.ashx?Semester=HS15&EventNumber=7,363,1.00"
+        undergraduate:
+          - title:
+            syllabus:
+      Summer School:
+        - title:
+          syllabus:
+2014:
+  Spring:
+      European University Institute:
+        PhD:
+          - title: "Game Theory for Political Scientists"
+            syllabus:

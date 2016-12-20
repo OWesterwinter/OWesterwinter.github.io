@@ -1,0 +1,25 @@
+---
+title: "Teaching"
+permalink: /teaching/
+---
+{% include base_path %}
+{% for year in site.data.teaching %}
+<h2> {{ year[0] }} </h2>
+  {% for season in year[1] %}
+  {% for institution in season[1] %}
+    {% for level in institution[1] %}
+      {% for course in level[1] %}
+      {% if course.title %}
+      <ul><li>
+        {% if course.syllabus %}
+          <a href="{{ course.syllabus }}" target="_blank">{{ course.title }}</a>, {{ level[0] }} level, {{ institution[0] }}, {{ season[0] }} semester.
+        {% else %}
+        {{ course.title }}, {{ level[0] }} level, {{ institution[0] }}, {{ season[0] }} semester.
+        {% endif %}
+      </li></ul>
+      {% endif %}
+      {% endfor %}
+    {% endfor %}
+  {% endfor %}
+  {% endfor %}
+{% endfor %}

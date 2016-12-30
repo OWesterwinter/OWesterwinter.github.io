@@ -11,11 +11,11 @@ title                    : "Oliver Westerwinter"
 title_separator          : "-"
 name                     : "Oliver Westerwinter"
 description              : "Personal website."
-url                      : #"http://oliverwesterwinter.com" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : "http://oliverwesterwinter.com"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 gh_repo                  :
 teaser                   : # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
-# breadcrumbs            : false # true, false (default)
+breadcrumbs              : false # true, false (default)
 words_per_minute         : 200
 comments:
   provider               : # false (default), "disqus", "discourse", "facebook", "google-plus", custom"
@@ -28,7 +28,10 @@ comments:
     appid                :
     num_posts            : # 5 (default)
     colorscheme          : "light" # "light" (default), "dark"
-
+# set categories for panels:
+publications_categories: ["Books", "Chapters", "Papers", "Reviews"]
+research_categories: ["Research"]
+work_in_progress_categories: ["Work in progress"]
 # set defaults for posts etc
 defaults:
   # _posts
@@ -41,7 +44,7 @@ defaults:
       read_time: false
       comments: false
       share: true
-      related: true
+      related: false
 
   # _pages
   - scope:
@@ -91,7 +94,7 @@ author:
   avatar           : "westerwinter.jpg"
   bio              : "Assistant professor of political science, University of St.Gallen"
   location         : "SEPS-HSG <br/>
-Büro 33-506 <br/>
+Office 33-506 <br/>
 Rosenbergstrasse 51 <br/>
 9000 St. Gallen <br/>
 Switzerland"
@@ -210,12 +213,12 @@ whitelist:
 #  - <base_path>/tags/my-awesome-tag/index.html ~> path: /tags/
 #  - <base_path/categories/my-awesome-category/index.html ~> path: /categories/
 #  - <base_path/my-awesome-category/index.html ~> path: /
-category_archive:
-  type: liquid
-  path: /publications/
-tag_archive:
-  type: liquid
-  path: /tags/
+# category_archive:
+#   type: liquid
+#   path: /publications/
+# tag_archive:
+#   type: liquid
+#   path: /tags/
 # https://github.com/jekyll/jekyll-archives
 # jekyll-archives:
 #   enabled:

@@ -1,0 +1,14 @@
+---
+title: "Work in Progress"
+permalink: /workinpgrogress/
+layout: "archive"
+---
+{% include base_path %}
+
+{% for category in site.work_in_progress_categories %}
+  {% for post in site.posts %}
+      {% if post.category contains category %}
+        {% include archive-single.html %}
+      {% endif %}
+  {% endfor %}
+{% endfor %}

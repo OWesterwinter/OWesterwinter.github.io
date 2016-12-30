@@ -5,12 +5,12 @@ permalink: /publications/
 ---
 
 {% include base_path %}
-{% include group-by-array collection=site.posts field="categories" %}
 
-{% for category in group_names %}
-  {% assign posts = group_items[forloop.index0] %}
+{% for category in site.publications_categories %}
   <h2 id="{{ category | slugify }}" class="archive__subtitle">{{ category }}</h2>
-  {% for post in posts %}
-    {% include archive-single.html %}
+  {% for post in site.posts %}
+      {% if post.category contains category %}
+        {% include archive-single.html %}
+      {% endif %}
   {% endfor %}
 {% endfor %}

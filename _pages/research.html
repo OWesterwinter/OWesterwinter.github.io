@@ -1,0 +1,14 @@
+---
+layout: "archive"
+title: "Research"
+permalink: /research/
+---
+{% include base_path %}
+
+{% for category in site.research_categories %}
+  {% for post in site.posts %}
+      {% if post.category contains category %}
+        {% include archive-single.html %}
+      {% endif %}
+  {% endfor %}
+{% endfor %}

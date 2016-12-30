@@ -11,8 +11,8 @@ title                    : "Oliver Westerwinter"
 title_separator          : "-"
 name                     : "Oliver Westerwinter"
 description              : "Personal website."
-url                      : "http://oliverwesterwinter.com"
-baseurl                  : # the subpath of your site, e.g. "/blog"
+url                      :
+baseurl                  : "http://oliverwesterwinter.com"# the subpath of your site, e.g. "/blog"
 gh_repo                  :
 teaser                   : # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)

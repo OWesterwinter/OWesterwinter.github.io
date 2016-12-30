@@ -2,12 +2,19 @@
 layout: archive
 author_profile: true
 permalink: /
-header:
-  overlay_image: header.png
-  overlay_filter: .5
+#header:
+#  overlay_image: header.png
+#  overlay_filter: .5
 ---
 {% include base_path %}
 I am an Assistant Professor of Political Science at the Department of Political Science at the University of St. Gallen. On this website, you find information about my research and teaching.
+<h3 class="archive__subtitle">{{ site.data.ui-text[site.locale].recent_posts }}</h3>
+
+  {% for post in site.posts limit:4%}
+
+        {% include archive-single.html %}
+
+  {% endfor %}
 
 <!--<h3 class="archive__subtitle">{{ site.data.ui-text[site.locale].recent_posts }} {{site.title_separator}} <a href="{{site.url}}archive/">{{ site.data.ui-text[site.locale].archive }}</a></h3>
 

@@ -35,8 +35,10 @@ layout: default
       {% endunless %}
 
       <section class="page__content" itemprop="text">
+        {% if page.coauthors %}<h3> In collaboration with: {{ page.coauthors | join: ", "}}</h3>{% endif %}
         {{ content }}
         {% if page.link %}<div><a href="{{ page.link }}" class="btn">{{ site.data.ui-text[site.locale].ext_link_label }}</a></div>{% endif %}
+        {% if page.download %}<div><a href="{{ page.download }}" class="btn">Download here</a></div>{% endif %}
       </section>
 
       <footer class="page__meta">
@@ -53,7 +55,7 @@ layout: default
 
       {% if page.share %}{% include social-share.html %}{% endif %}
 
-      <!-- {% include post_pagination.html %} -->
+      {% if site.pagination_on %}{% include post_pagination.html %}{% endif %}
     </div>
 
     {% if site.comments.provider and page.comments %}

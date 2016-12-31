@@ -1,9 +1,8 @@
 ---
 #excerpt: ""
 title: "Networked international politics: Complex interdependence and the diffusion of conflict and peace"
-
+coauthors: ["Han Dorussen", "Erik Gartzke"]
 category: "Papers"
+download: "http://jpr.sagepub.com/content/53/3/283"
 ---
 Network theory and methods are becoming increasingly used to study the causes and consequences of conflict. Network analysis allows researchers to develop a better understanding of the causal dynamics and structural geometry of the complex web of interdependencies at work in the onset, incidence, and diffusion of conflict and peace. This issue features new theoretical and empirical research demonstrating how properly accounting for networked interdependencies has profound implications for our understanding of the processes thought to be responsible for the conflict behavior of state and non-state actors. The contributors examine the variation in networks of states and transnational actors to explain outcomes related to international conflict and peace. They highlight how networked interdependencies affect conflict and cooperation in a broad range of areas at the center of international relations scholarship. It is helpful to distinguish between three uses of networks, namely: (1) as theoretical tools, (2) as measurement tools, and (3) as inferential tools. The introduction discusses each of these uses and shows how the contributions rely on one or several of them. Next, Monte Carlo simulations are used to illustrate one of the strengths of network analysis, namely that it helps researchers avoid biased inferences when the data generating process underlying the observed data contains extradyadic interdependencies.
-
-[Download here](http://jpr.sagepub.com/content/53/3/283)

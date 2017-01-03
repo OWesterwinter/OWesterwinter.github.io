@@ -57,7 +57,7 @@ defaults:
       layout: single
       author_profile: true
     header:
-      image: bla.jpg
+      image:
 
 # SEO Related
 google_site_verification :
@@ -95,7 +95,7 @@ google_ad_slot           :
 author:
   name             : "Oliver Westerwinter, PhD"
   avatar           : "westerwinter.jpg"
-  bio              : "Assistant professor of political science, University of St.Gallen"
+  bio              : "Assistant Professor of Political Science, University of St.Gallen"
   location         : "SEPS-HSG <br/>
 Office 33-506 <br/>
 Rosenbergstrasse 51 <br/>

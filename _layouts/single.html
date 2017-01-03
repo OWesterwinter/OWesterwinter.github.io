@@ -36,6 +36,7 @@ layout: default
 
       <section class="page__content" itemprop="text">
         {% if page.coauthors %}<h3> In collaboration with: {{ page.coauthors | join: ", "}}</h3>{% endif %}
+        {% if page.funded %}<h3> {{ page.funded | markdownify | strip_html }}</h3>{% endif %}
         {{ content }}
         {% if page.link %}<div><a href="{{ page.link }}" class="btn">{{ site.data.ui-text[site.locale].ext_link_label }}</a></div>{% endif %}
         {% if page.download %}<div><a href="{{ page.download }}" class="btn">Download here</a></div>{% endif %}

@@ -4,11 +4,14 @@ permalink: /workinpgrogress/
 layout: "archive"
 ---
 {% include base_path %}
-
+<ul>
 {% for category in site.work_in_progress_categories %}
   {% for post in site.posts %}
       {% if post.category contains category %}
-        {% include archive-single.html %}
+        <li>{{post.title}}{% if post.coauthors %}
+        </br><font color = "gray">(with: {{post.coauthors | join:", "}}){% endif %}</font></li>
+        <!--{% include archive-single.html %}-->
       {% endif %}
   {% endfor %}
 {% endfor %}
+</ul>

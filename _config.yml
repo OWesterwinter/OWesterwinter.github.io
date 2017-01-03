@@ -11,7 +11,7 @@ title                    : "Oliver Westerwinter"
 title_separator          : "-"
 name                     : "Oliver Westerwinter"
 description              : "Personal website."
-url                      : #"http://oliverwesterwinter.com"
+url                      : "http://oliverwesterwinter.com"
 baseurl                  :
 gh_repo                  :
 teaser                   : # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"

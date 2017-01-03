@@ -4,7 +4,7 @@ header:
   teaser: "https://global.oup.com/academic/covers/pdp/9780190604493"
 category: "Books"
 download: "https://global.oup.com/academic/product/the-new-power-politics-9780190604493"
-coauthors: "Deborah Avant"
+coauthors: ["Deborah Avant"]
 ---
 Traditional analyses of global security cannot explain the degree to which there is "governance" of important security issues — from combatting piracy to curtailing nuclear proliferation to reducing the contributions of extractive industries to violence and conflict. They are even less able to explain why contemporary governance schemes involve the various actors and take the many forms they do.
 

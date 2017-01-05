@@ -32,7 +32,6 @@ comments:
 publications_categories: ["Books", "Chapters", "Papers", "Reviews"]
 research_categories: ["Research"]
 work_in_progress_categories: ["Work in progress"]
-
 # set pagination on posts:
 pagination_on: false
 # set defaults for posts etc
@@ -125,7 +124,7 @@ Switzerland"
   weibo            :
   xing             :
   youtube          :
-
+  vcard            : "OliverWesterwinter.vcf"
 
 # Reading Files
 include:

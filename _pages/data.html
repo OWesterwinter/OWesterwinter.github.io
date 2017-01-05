@@ -1,0 +1,17 @@
+---
+title: "Data"
+permalink: /data/
+layout: "single"
+---
+{% include base_path %}
+<ul>
+
+  {% for post in site.posts %}
+      {% if post.data%}
+        <li><a href="{{post.data}}">{{post.title}}</a>{% if post.coauthors %}
+        </br><font color = "gray">(with: {{post.coauthors | array_to_sentence_string}}){% endif %}</font></li>
+        <!--{% include archive-single.html %}-->
+      {% endif %}
+  {% endfor %}
+
+</ul>

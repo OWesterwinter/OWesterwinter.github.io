@@ -10,6 +10,9 @@ main:
   - title: "Publications"
     url: /publications/
 
+  - title: "Data"
+    url: /data/
+    
   - title: "Work in Progress"
     url: /workinpgrogress/
 

@@ -11,7 +11,7 @@ title                    : "Oliver Westerwinter"
 title_separator          : "-"
 name                     : "Oliver Westerwinter"
 description              : "I am an Assistant Professor of Political Science at the Department of Political Science at the University of St. Gallen. On this website, you find information about my research and teaching."
-url                      : #"http://oliverwesterwinter.com"
+url                      : "http://oliverwesterwinter.com"
 baseurl                  :
 gh_repo                  :
 teaser                   : # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"

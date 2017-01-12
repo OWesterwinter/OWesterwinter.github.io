@@ -1,5 +1,5 @@
 ---
-title: "Informal Governance, Networks and the Politics of Transnational Public-Private Security
-Governance"
-category: ["Work in progress"]
+title: "Co-Evolution of Depth, Flexibility, and Enforcement in Trade Agreements: A Network Approach"
+category: ["Working paper"]
+coauthors: ["Leonardo Baccini", "Andreas Dur"]
 ---

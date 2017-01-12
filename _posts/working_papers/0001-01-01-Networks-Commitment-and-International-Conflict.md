@@ -1,5 +1,5 @@
 ---
 title: "Networks, Commitment and International Conflict"
-category: ["Work in progress"]
+category: ["Working paper"]
 coauthors: ["Erik Gartzke"]
 ---

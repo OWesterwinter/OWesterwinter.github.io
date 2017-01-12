@@ -1,7 +1,7 @@
 ---
 funded: "Funded by the Swiss Network for International Studies [(SNIS)](http://www.snis.ch/project_politics-informal-governance)"
 title: "The Politics of Informal Governance"
-category: ["Research", "Work in progress"]
+category: ["Research"]
 #coauthors: ["Dirk Lehmkuhl, Katharina Michaelowa, Barbara Koremenos, Kenneth Abbott, Miles Kahler, Duncan Snidal, and others"]
 ---
 

@@ -12,8 +12,11 @@ main:
 
   - title: "Data"
     url: /data/
-    
-  - title: "Work in Progress"
+
+  - title: "Working Papers"
+    url: /workingpapers/
+
+  - title: "Other Work in Progress"
     url: /workinpgrogress/
 
   - title: "Teaching"

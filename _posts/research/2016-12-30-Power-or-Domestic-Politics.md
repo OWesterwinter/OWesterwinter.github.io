@@ -2,6 +2,7 @@
 #excerpt: ""
 title: "Power or Domestic Politics? Explaining State Participation in Informal International Institutions"
 category: "Research"
+funded: "Funded by the University of St. Gallen"
 ---
 
 Why have states recently started to use informal institutions instead of formal organizations to govern global policy issues? What factors drive states’ decisions to join informal international institutions? Extant research on the forms of institutionalization in global governance focuses on formal modes of cooperation, such as intergovernmental organizations and treaties. Formal rules, however, do not exhaust the institutional variety of international cooperation. They are often inadequate, if not entirely misleading, descriptions of the game that actors play in world politics.

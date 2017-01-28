@@ -10,8 +10,8 @@ layout: "single"
         {% assign year = post.date | date: "%Y" %}
         {% if year != year_prev %}
           <h2 id="{{ year }}" class="archive__subtitle">{{ year }}</h2>
-          <ul>
         {% endif %}
+        <ul>
         <li><a href="{{post.data}}">{{post.title}}</a>{% if post.coauthors %}
         </br><font color = "gray">(with: {{post.coauthors | array_to_sentence_string}}){% endif %}</font></li>
         </ul>

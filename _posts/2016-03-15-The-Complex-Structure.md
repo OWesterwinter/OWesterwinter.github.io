@@ -1,7 +1,7 @@
 ---
 #excerpt: ""
 title: "The complex structure of commercial peace contrasting trade interdependence, asymmetry, and multipolarity"
-data: "https://github.com/OWesterwinter/research/tree/master/Complex%20Structure%20of%20Commercial%20Peace%20JPR%202016"
+download_data: "https://github.com/OWesterwinter/research/tree/master/Complex%20Structure%20of%20Commercial%20Peace%20JPR%202016"
 category: "Papers"
 download: "http://jpr.sagepub.com/content/53/3/325"
 coauthors: ["Erik Gartzke"]

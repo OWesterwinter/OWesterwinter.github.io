@@ -6,13 +6,13 @@ layout: "single"
 {% include base_path %}
 
   {% for post in site.posts %}
-      {% if post.data %}
+      {% if post.download_data %}
         {% assign year = post.date | date: "%Y" %}
         {% if year != year_prev %}
           <h2 id="{{ year }}" class="archive__subtitle">{{ year }}</h2>
         {% endif %}
         <ul>
-        <li><a href="{{post.data}}">{{post.title}}</a>{% if post.coauthors %}
+        <li><a href="{{post.download_data}}">{{post.title}}</a>{% if post.coauthors %}
         </br><font color = "gray">(with: {{post.coauthors | array_to_sentence_string}}){% endif %}</font></li>
         </ul>
         {% assign year_prev = year %}

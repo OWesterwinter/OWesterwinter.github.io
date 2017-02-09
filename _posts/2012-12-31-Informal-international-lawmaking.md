@@ -3,9 +3,37 @@
 title: "Informal International Lawmaking"
 
 category: "Reviews"
+download: "http://link.springer.com/article/10.1007/s11558-014-9206-4"
 ---
-Many international norms that have emerged in recent years are not set out in formal treaties. They are not concluded in formal international organizations. They frequently involve actors other than formal state representatives. In the realm of finance, health, security, or the environment, international lawmaking is increasingly 'informal': It takes place in networks or loosely organized fora; it involves a multitude of stakeholders including regulators, experts, professional organizations and other non-state actors; it leads to guidelines, standards or best practices. This book critically assesses the concept of informal international lawmaking, its legal nature, and impact at the national and international level. It examines whether it is on the rise, as is often claimed, and if so, what the implications of this are. It addresses what actors are involved in its creation, the processes utilized, and the informal output produced.
+Research on international cooperation has made substantial progress by taking seriously the formal details of international institutions, such as international organizations
+(IOs) and treaties (Goldstein et al. 2000; Koremenos et al. 2001; Hawkins et al. 2006;
+Thomson et al. 2006). Formal rules do not, however, exhaust the institutional variety of
+international cooperation. They are often inadequate descriptions of the game that
+actors play in world politics (Achen 2006; Stone 2011, 2013). As Stone (2011) argues,
+IOs are governed by both formal and informal rules, and powerful states exploit
+informal governance to manipulate IO policies when their interests are acutely affected.
+For example, the rules of the game played in the World Trade Organization depart
+substantially from the formal treaty provisions (Steinberg 2002). Likewise, in the
+European Union (EU) the legislative co-decision procedure between the European
+Parliament and the Council of Ministers consists of an ensemble of formal and informal
+procedures that interact with one another in multiple ways to shape the interactions of
+member states and EU institutions (Kleine 2013). As these examples indicate, while
+formal rules are important features of contemporary global governance, in many
+situations informal practices may override, substitute for, or complement the formal
+provisions.
 
-The book frames informal international lawmaking around three axes: output informality (novel types of norms), process informality (norm-making in networks outside international organizations), and actor informality (the involvement of public agencies and regulators, private actors, and international organizations). Fundamentally, the book is concerned with whether this informality causes problems in terms of keeping transnational lawmaking accountable. By empirically analysing domestic processes of norm elaboration and implementation, the book addresses the key question of how to benefit from the effectiveness of informal international lawmaking without jeopardizing the accountability necessary in the process of making law.
-
-[Link](https://global.oup.com/academic/product/informal-international-lawmaking-9780199658589)
+Most of the recent works on informal governance in international relations focus on
+informality within formal IOs (Stone 2011; Kleine 2013; Kilby 2013). However, as the
+volume Informal International Lawmaking edited by Joost Pauwelyn, Ramses Wessel,
+and Jan Wouters convincingly describes, the phenomenon is broader than this. The
+contributions to the volume cover a broad range of over 30 cases 1 of informal
+international cooperation ranging from informal procedures within IOs to informal
+groups of states and transnational networks of government bureaucrats. These contributions develop innovative theoretical arguments about the emergence, operation, and
+consequences of informal modes of international cooperation; discuss the location of
+such informal modes within the “universe of law”; investigate how informal modes of
+cooperation interact with formal international law; assess the legitimacy and democratic
+accountability of informal modes of cooperation; and analyze how informal modes of
+cooperation are elaborated and implemented by domestic institutions. The volume
+concludes with a chapter that summarizes the contributions of the other chapters,
+outlines areas for future research, and articulates practical guidelines for negotiators
+and actors who are involved in the elaboration of informal international law.

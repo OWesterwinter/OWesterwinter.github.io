@@ -27,21 +27,21 @@
       University of St. Gallen:
         graduate:
           - title: "Social Science Methodology: Game Theory"
-            syllabus: "http://tools.unisg.ch/Handlers/public/CourseInformationSheet.ashx?Semester=FS16&EventNumber=8,398,1.00"
+            syllabus: "http://oliverwesterwinter.com/assets/syllabi/2016-06-28-game-theory.pdf"
         undergraduate:
           - title: "Quantitative Methods"
-            syllabus: "http://tools.unisg.ch/Handlers/public/CourseInformationSheet.ashx?Semester=FS16&EventNumber=4,306,1.00"
+            syllabus: "http://oliverwesterwinter.com/assets/syllabi/syllabus_quantitativemethods_12052016.pdf"
       GSERM Summer School:
           PhD:
             - title: "Workshop Lectures on Statistics with R"
-              syllabus: "http://www.gserm.ch/stgallen/course/workshop-lectures-on-statistics-with-r/"
+              syllabus: "http://oliverwesterwinter.com/assets/syllabi/syllabus_statswithr_03062016.pdf"
   Fall:
       University of St. Gallen:
         graduate:
           - title: "International Cooperation"
-            syllabus: "http://tools.unisg.ch/Handlers/public/CourseInformationSheet.ashx?Semester=HS16&EventNumber=7,376,1.00"
+            syllabus: "http://oliverwesterwinter.com/assets/syllabi/syllabus_intcoop_22122016.pdf"
           - title: "Social Science Methodology: Network Analysis"
-            syllabus: "http://tools.unisg.ch/Handlers/public/CourseInformationSheet.ashx?Semester=HS15&EventNumber=7,363,1.00"
+            syllabus: "http://oliverwesterwinter.com/assets/syllabi/syllabus_networkanalysis_16122016.pdf"
         undergraduate:
           - title:
             syllabus:
@@ -59,7 +59,7 @@
             syllabus:
         undergraduate:
           - title: "Quantitative Methods"
-            syllabus: "http://tools.unisg.ch/Handlers/public/CourseInformationSheet.ashx?Semester=FS15&EventNumber=4,306,1.00"
+            syllabus: "http://oliverwesterwinter.com/assets/syllabi/syllabus_quantitativemethods_240315.pdf"
       Summer School:
         - title:
           syllabus:
@@ -70,7 +70,7 @@
             syllabus:
         graduate:
           - title: "Social Science Methodology: Network Analysis"
-            syllabus: "http://tools.unisg.ch/Handlers/public/CourseInformationSheet.ashx?Semester=HS15&EventNumber=7,363,1.00"
+            syllabus: "http://oliverwesterwinter.com/assets/syllabi/syllabus_networkanalysis_03122015.pdf"
         undergraduate:
           - title:
             syllabus:
@@ -82,4 +82,4 @@
       European University Institute:
         PhD:
           - title: "Game Theory for Political Scientists"
-            syllabus:
+            syllabus: "http://oliverwesterwinter.com/assets/syllabi/2014-05-29-game-theory-workshop.pdf"

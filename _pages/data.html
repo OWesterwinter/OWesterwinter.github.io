@@ -13,7 +13,7 @@ layout: "single"
         {% endif %}
         <ul>
         <li><a href="{{post.download_data}}">{{post.title}}</a>{% if post.coauthors %}
-        </br><font color = "gray">(with: {{post.coauthors | array_to_sentence_string}}){% endif %}</font></li>
+        </br><font color = "gray">(In collaboration with: {{post.coauthors | array_to_sentence_string}}){% endif %}</font></li>
         </ul>
         {% assign year_prev = year %}
         <!--{% include archive-single.html %}-->

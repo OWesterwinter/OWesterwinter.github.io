@@ -1,6 +1,6 @@
 ---
 #excerpt: ""
-title: "The Continent of International Law. Explaining Agreement Design"
+title: "The Continent of International Law"
 
 category: "Reviews"
 download: "https://link.springer.com/article/10.1007/s11558-017-9274-3?wt_mc=Internal.Event.1.SEM.ArticleAuthorOnlineFirst"

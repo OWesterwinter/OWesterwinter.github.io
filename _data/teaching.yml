@@ -14,8 +14,10 @@
   Fall:
       University of St. Gallen:
         graduate:
-          - title:
-            syllabus:
+          - title: "International Security"
+            syllabus: "http://oliverwesterwinter.com/assets/syllabi/syllabus_intsec_29092017.pdf"
+          - title: "Social Science Methodology: Network Analysis"
+            syllabus: "http://oliverwesterwinter.com/assets/syllabi/syllabus_networkanalysis_11102017.pdf"
         undergraduate:
           - title:
             syllabus:

@@ -1,0 +1,6 @@
+---
+title: "The Institutional Design of Intergovernmental Organizations"
+category: ["Working paper"]
+coauthors: ["Bernhard Reinsberg"]
+---
+Scholars have long debated about what determines the design choices of states cooperating through formal intergovernmental organizations (FIGOs). However, empirical tests of these theories have been plagued by lack of data, reliable measures, and methodological challenges. This article uses a new dataset including detailed information on the presence of key design features of 534 FIGOs established between 1816 and 2014, originally collected by the Correlates of War project. Using seemingly unrelated estimations to account for the simultaneity of design choices, the empirical analysis examines the determinants of institutional structure and legalization drawn from three grand theories of international cooperation: power-based approaches, rational institutionalism, and domestic politics. The results suggest that no particular theory is superior, but that all theories are necessary to understand the complex design choices of states. The analysis also generates a new finding regarding the role of partisan ideology of governments cooperating through FIGOs.

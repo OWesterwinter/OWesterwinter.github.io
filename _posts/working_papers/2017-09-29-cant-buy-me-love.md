@@ -2,7 +2,7 @@
 title: "Can’t Buy Me Love? Specific and Diffuse Reciprocity in
 International Relations"
 category: ["Working paper"]
-coauthors: ["Samuel Brazys",  "Adrian O’Hagan", "Diana Panke"]
+coauthors: ["Samuel Brazys", "Adrian O’Hagan", "Diana Panke"]
 ---
 The notion that powerful states influence their weaker counterparts in international organizations through
 “vote buying” was first advanced over 40 years ago and has remained a dominant understanding in international

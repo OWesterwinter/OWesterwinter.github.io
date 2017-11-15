@@ -1,7 +1,7 @@
 # Every entry must have a YEAR, a SEASON, an INSTITUTION, a LEVEL and a TITLE. SYLLABUS is optional.
 # However, you can name it like you want, but you have to stick to that level of detail, else the loop screws up.
 2017:
-  Spring:
+  spring:
       University of St. Gallen:
         graduate:
           - title: "Social Science Methodology: Intermediate Statistics"
@@ -11,7 +11,7 @@
         undergraduate:
           - title: "Quantitative Methods"
             syllabus: "http://oliverwesterwinter.com/assets/syllabi/syllabus_quantitativemethods_23032017.pdf"
-  Fall:
+  fall:
       University of St. Gallen:
         graduate:
           - title: "International Security"
@@ -25,7 +25,7 @@
           - title:
             syllabus:
 2016:
-  Spring:
+  spring:
       University of St. Gallen:
         graduate:
           - title: "Social Science Methodology: Game Theory"
@@ -37,7 +37,7 @@
           PhD:
             - title: "Workshop Lectures on Statistics with R"
               syllabus: "http://oliverwesterwinter.com/assets/syllabi/syllabus_statswithr_03062016.pdf"
-  Fall:
+  fall:
       University of St. Gallen:
         graduate:
           - title: "International Cooperation"
@@ -51,7 +51,7 @@
           - title:
             syllabus:
 2015:
-  Spring:
+  spring:
       University of St. Gallen:
         PhD:
           - title:
@@ -65,7 +65,7 @@
       Summer School:
         - title:
           syllabus:
-  Fall:
+  fall:
       University of St. Gallen:
         PhD:
           - title:
@@ -80,7 +80,7 @@
         - title:
           syllabus:
 2014:
-  Spring:
+  spring:
       European University Institute:
         PhD:
           - title: "Game Theory for Political Scientists"

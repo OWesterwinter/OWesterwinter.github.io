@@ -1,5 +1,14 @@
 # Every entry must have a YEAR, a SEASON, an INSTITUTION, a LEVEL and a TITLE. SYLLABUS is optional.
 # However, you can name it like you want, but you have to stick to that level of detail, else the loop screws up.
+2018:
+  spring:
+      University of St. Gallen:
+        graduate:
+          - title: "Social Science Methodology: Intermediate Statistics"
+            syllabus: "http://oliverwesterwinter.com/assets/syllabi/syllabus_intermediatestats_14022018.pdf"
+        undergraduate:
+          - title: "Quantitative Methods"
+            syllabus: "http://oliverwesterwinter.com/assets/syllabi/syllabus_quantitativemethods_19022018.pdf"
 2017:
   spring:
       University of St. Gallen:

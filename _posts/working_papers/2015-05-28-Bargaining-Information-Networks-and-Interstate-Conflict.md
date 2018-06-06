@@ -1,5 +1,5 @@
 ---
-title: "Bargaining, Information Networks and Interstate Conflict"
+title: "War is in the Variance/Covariance Structure of the Error Terms: International Networks and the Bargaining Theory of War"
 category: ["Working paper"]
 coauthors: ["Erik Gartzke", "Hugh Ward"]
 ---

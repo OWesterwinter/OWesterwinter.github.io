@@ -1,5 +1,5 @@
 ---
 title: "Interdependence Really is Complex"
-category: ["Work in progress"]
+category: ["Other"]
 coauthors: ["Erik Gartzke"]
 ---

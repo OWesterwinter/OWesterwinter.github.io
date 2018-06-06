@@ -1,7 +1,7 @@
 ---
 title: "Preventing and Protecting: Reputation and the Design of International Cooperation"
 coauthors: ["Stefano Jud"]
-category: ["Work in progress", "Research"]
+category: ["Working paper"]
 ---
 We offer a systematic account of the effect of states’ reputation on the occurrence and design
 of international cooperation. When confronted with states with a bad cooperation reputation,

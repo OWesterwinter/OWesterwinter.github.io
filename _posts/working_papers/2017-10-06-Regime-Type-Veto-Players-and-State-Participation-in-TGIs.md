@@ -1,22 +1,14 @@
 ---
-title: "Regime Type, Veto Players, and State Participation in Transnational Public-Private Governance
-Initiatives"
+title: "The Domestic Politics of Transnational Public-Private Governance"
 category: ["Working paper"]
 ---
-Why do states use informal institutions to govern global problems? Extant research on the forms
-of institutionalization in global governance focuses on formal modes of cooperation, such as formal
-intergovernmental organizations (FIGOs) and treaties. Formal rules, however, are often inadequate,
-if not entirely misleading, descriptions of the game that actors play in world politics. Recent work on
-informal global governance largely focuses on informal governance within FIGOs. Little is known
-about informal governance outside FIGOs. This paper starts to fill this gap. I focus on a particular
-type of informal global governance; namely, transnational public-private governance initiatives
-(TGIs) in which states and/or FIGOs cooperate with business and civil society actors. I argue that
-states’ choice to participate in TGIs is driven by forces at the domestic level. Specifically, I argue that
-the extent to which a state participates in TGIs depends on its political regime type and the presence of
-domestic veto players. The added value of the flexibility and low legal rigidity of cooperation based
-on TGIs allows democratic leaders to avoid the cumbersome domestic ratification processes of international
-agreements. It also allows governments irrespective of their regime type to bypass domestic
-veto players with opposing preferences. The push toward informal global governance that originates
-in the presence of domestic veto players, however, decreases as the level of democracy in a country
-increases. I empirically test my argument using a new dataset with information on 468 TGIs between
-1885 and 2016. Results suggest that state participation in TGIs is strongly driven by domestic politics.
+I offer a systematic account of the effect of domestic politics on countries’ participation in transnational
+public-private governance initiatives (TGIs) in which states and/or intergovernmental organizations
+cooperate with business and civil society actors. First, I argue that governments that are
+confronted with strong domestic veto players have incentives to pursue their foreign policy goals
+through means that limit or bypass the participation of the domestic opposition in international affairs.
+TGIs, which are a form of informal global governance, are one such means. Second, I posit
+that the strategic incentive of governments to bypass domestic veto players by participating in TGIs is
+most pronounced in governance initiatives with minimal institutional structures and weaker for more
+structured initiatives. I test these arguments using new data on 731 transnational public-private governance
+initiatives in the period 1885 to 2015. The results support my expectations.

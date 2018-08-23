@@ -2,7 +2,7 @@
 #excerpt: ""
 title: "Networked international politics: Complex interdependence and the diffusion of conflict and peace"
 coauthors: ["Han Dorussen", "Erik Gartzke"]
-category: ["Papers"]
+category: ["Articles"]
 download: "http://jpr.sagepub.com/content/53/3/283"
 download_data: "https://github.com/OWesterwinter/research/tree/master/Networked%20international%20politics:%20Complex%20interdependence%20and%20the%20diffusion%20of%20conflict%20and%20peace"
 ---

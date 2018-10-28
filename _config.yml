@@ -10,13 +10,13 @@ locale                   : "en"
 title                    : "Oliver Westerwinter"
 title_separator          : "-"
 name                     : "Oliver Westerwinter"
-description              : "I am an Assistant Professor of Political Science at the Department of Political Science at the University St.Gallen, Switzerland. From September 2018 until August 2019, I am also be a Max Weber Fellow at the Robert Schuman Centre for Advanced Studies at the European University Institute.
- <br/><br/>
-My research interests include international organizations, transnational public-private governance, institutional design and effectiveness, international security, and research methods. I am teaching courses on introductory and intermediate statistics, network analysis, programming in R, game theory, international cooperation, and international security.
- <br/><br/>
-I received my Ph.D. in Political and Social Sciences with a focus on international relations and research methods in 2014 at the European University Institute. In 2011, I was a visiting fellow at the University of California, San Diego, School of International Relations and Pacific Studies.
- <br/><br/>
-My research has been funded by several funding agencies and universities, including the Swiss Network for International Studies, the International Studies Association, and the University of St.Gallen, and has been published in the Journal of Peace Research, Review of International Organizations, and with Oxford University Press."
+description              : "I am an Assistant Professor of Political Science at the Department of Political Science at the University St. Gallen, Switzerland. From September 2018 until August 2019, I am also a Max Weber Fellow at the Robert Schuman Centre for Advanced Studies at the European University Institute.
+<br><br>
+My research interests include international organizations, transnational public-private governance initiatives, informal governance, institutional design and effectiveness, institutional complexity, international security, and research methods. I am teaching courses on introductory and intermediate statistics, network analysis, programming in R, game theory, international cooperation, and international security.
+<br><br>
+I received my Ph.D. in Political and Social Sciences with a focus on international relations and research methods in 2014 from the Department of Political and Social Sciences of the European University Institute. In 2011, I was a visiting fellow at the University of California, San Diego, School of International Relations and Pacific Studies.
+<br><br>
+My research has been funded by several funding agencies and universities, including the Swiss Network for International Studies, the International Studies Association, and the University of St. Gallen, and has been published in the Journal of Peace Research, Review of International Organizations, and with Oxford University Press."
 url                      : "http://oliverwesterwinter.com"
 baseurl                  :
 gh_repo                  :

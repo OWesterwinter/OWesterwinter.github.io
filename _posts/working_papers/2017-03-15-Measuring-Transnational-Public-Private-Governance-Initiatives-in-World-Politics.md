@@ -2,12 +2,17 @@
 title: "Measuring Transnational Public-Private Governance Initiatives in World Politics: A New Dataset"
 category: ["Working paper"]
 ---
-This paper summarizes the Transnational Public-Private Governance Initiatives in World Politics
-Data. The data contains detailed information on the scope, participants, and institutional
-design of 468 transnational public-private governance initiatives (TGIs) in which states and/or
-formal intergovernmental organizations cooperate with business and civil society actors to
-govern global problems. I describe the sample generation and discuss coding rules. I also
-map the development of TGIs at the initiative and state level of analysis, and show how the
-new data contributes to enhancing researchers’ understanding of transnational public-private
-governance. The paper concludes by identifying puzzles and avenues for future research on
-transnational public-private governance initiatives in world politics.
+This paper introduces a new dataset on transnational public-private governance initiatives (TGIs) in
+world politics. TGIs are institutions in which states and/or intergovernmental organizations cooperate
+with business and civil society actors to govern global problems. They have flourished since the late
+1990s and, today, govern a broad range of global policy domains, including environmental protection,
+human rights, health, trade, finance, and security. Yet, existing research lacks the data necessary to
+map this phenomenon and its variation along dimensions, such as issue areas, governance functions,
+participation, and institutional design. The Transnational Public-Private Governance Initiatives in
+World Politics Data is designed for this purpose. It contains detailed information on the scope, functions,
+membership, and institutional design of 636 TGIs created between 1885 and 2017. I describe
+the sample generation and discuss coding rules. I also map the proliferation and characteristics of
+TGIs, and provide an exploratory analysis of the relationship between state participation in TGIs and
+domestic democracy to show how the new data contributes to enhancing ongoing debates in international
+relations. The paper concludes by discussing how the new dataset may be useful in future
+research on global governance.

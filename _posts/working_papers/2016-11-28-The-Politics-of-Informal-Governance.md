@@ -1,6 +1,6 @@
 ---
 title: "The Politics of Informal Governance"
-category: ["Working paper"]
+#category: ["Working paper"]
 ---
 Why do states sometimes use informal instead of formal institutions to govern global problems? Extant research on the forms of institutionalization in world politics focuses on formal
 modes of cooperation, such as intergovernmental organizations and treaties. Formal rules,

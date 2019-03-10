@@ -39,6 +39,7 @@ publications_categories: ["Books", "Articles", "Chapters", "Reviews"]
 research_categories: ["Research"]
 work_in_progress_categories: ["Work in progress"]
 working_papers_categories: ["Working paper"]
+frontpage_categories: ["frontpage"]
 # set pagination on posts:
 pagination_on: false
 # set defaults for posts etc

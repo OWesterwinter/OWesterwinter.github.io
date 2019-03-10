@@ -1,6 +1,6 @@
 ---
 title: "Contextual Design: Existing International Institutions and New Transnational Governance"
-category: ["frontpage"]
+category: ["frontpage", "Working Paper"]
 ---
 I offer a systematic account of the creation and design of transnational public-private governance
 initiatives (TGIs) in which states and/or intergovernmental organizations (IGOs) cooperate with business

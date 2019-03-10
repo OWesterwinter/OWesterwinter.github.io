@@ -1,6 +1,6 @@
 ---
 title: "Transnational Public-Private Governance Initiatives in World Politics: Introducing a New Dataset"
-category: ["Working paper", "frontpage"]
+category: ["frontpage"]
 ---
 This paper introduces a new dataset on transnational public-private governance initiatives (TGIs) in
 world politics. TGIs are institutions in which states and/or intergovernmental organizations cooperate

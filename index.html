@@ -10,17 +10,10 @@ permalink: /
 {{ site.description }}
 <h3 class="archive__subtitle">Recent work:</h3>
 
+{% for category in site.frontpage_categories %}
   {% for post in site.posts %}
-    {% if post.category contains site.frontpage_categories %}
-      {% include archive-single.html %}
-    {% endif %}
+      {% if post.category contains category %}
+        {% include archive-single.html %}
+      {% endif %}
   {% endfor %}
-
-<!--<h3 class="archive__subtitle">{{ site.data.ui-text[site.locale].recent_posts }} {{site.title_separator}} <a href="{{site.url}}archive/">{{ site.data.ui-text[site.locale].archive }}</a></h3>
-
-{% include paginator.html %}
-<div class="grid__wrapper">
-  {% for post in paginator.posts limit:4 %}
-    {% include archive-single.html type="grid" %}
-  {% endfor %}
-</div>-->
+{% endfor %}

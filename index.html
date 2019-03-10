@@ -10,10 +10,10 @@ permalink: /
 {{ site.description }}
 <h3 class="archive__subtitle">Recent work:</h3>
 
-  {% for post in site.posts limit:4%}
-
-        {% include archive-single.html %}
-
+  {% for post in site.posts %}
+    {% if post.category contains ["frontpage"] %}
+      {% include archive-single.html %}
+    {% endif %}
   {% endfor %}
 
 <!--<h3 class="archive__subtitle">{{ site.data.ui-text[site.locale].recent_posts }} {{site.title_separator}} <a href="{{site.url}}archive/">{{ site.data.ui-text[site.locale].archive }}</a></h3>

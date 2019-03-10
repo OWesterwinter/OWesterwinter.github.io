@@ -9,7 +9,7 @@ inadequate, if not entirely misleading, descriptions of the game that actors pla
 of cooperation in global governance. In this paper, I examine the factors that lead states to
 choose between formal intergovernmental organizations, informal intergovernmental organizations, and transnational public-private governance initiatives to structure their interactions
 and govern global problems. I highlight the political dimensions of informal governance and
-argue that distributional conict and power asymmetries are critical for the selection and
+argue that distributional conflict and power asymmetries are critical for the selection and
 design of informal modes of international cooperation. States use informal institutions as
 a means to project power and bias outcomes toward their particularistic interests. Using a
 new dataset on formal and informal international institutions, I test hypotheses derived from

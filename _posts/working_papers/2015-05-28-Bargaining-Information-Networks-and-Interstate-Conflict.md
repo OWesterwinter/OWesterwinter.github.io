@@ -15,5 +15,5 @@ network positions should be an important predictor of the onset of international
 develop a theoretical model that links the variance/co-variance structure of errors to conflict
 onset and derive hypotheses about how the network positions of individual states and dyads
 affects uncertainty and conflict onset. We test these hypotheses against data on militarized
-interstate dispute onsets between 1950 and 2000 using network and coventional econometric
+interstate dispute onsets between 1950 and 2000 using network and conventional econometric
 models.

@@ -2,7 +2,7 @@
 #excerpt: ""
 title: "Gauging Global Governance: The Effectiveness of Transnational Public-Private Governance Initiatives and Intergovernmental Organizations"
 category: "Research"
-funded: "Funded by Swiss National Science Foundation"
+funded: "Funded by Swiss National Science Foundation and the University of St. Gallen"
 ---
 New players, including firms and non-governmental organizations (NGOs), are engaging in global governance. With these new players have come new forms of governing in which varying mixes of state and non-state actors cooperate. Among these innovations are transnational public-private governance initiatives (TGIs). TGIs are institutions in which states and/or intergovernmental organizations (IGOs) work together with business and civil society actors to govern global policy issues. Examples include the Global Fund to Fight AIDS, Tuberculosis and Malaria (GF) in the health sector, and the Kimberley Process in the security area.
 

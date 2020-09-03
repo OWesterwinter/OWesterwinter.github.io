@@ -1,7 +1,7 @@
 ---
 #excerpt: ""
 title: "Informal governance in world politics"
-category: "Articles"
+category: ["frontpage", "Articles"]
 download: "https://link.springer.com/article/10.1007/s11558-020-09382-1"
 coauthors: ["Kenneth W. Abbott", "Thomas Biersteker"]
 ---

@@ -1,7 +1,7 @@
 ---
 #excerpt: ""
 title: "The global governance of international development: Documenting the rise of multi-stakeholder partnerships and identifying underlying theoretical explanations"
-category: "Articles"
+category: ["frontpage", "Articles"]
 download: "https://link.springer.com/article/10.1007/s11558-019-09362-0"
 coauthors: ["Bernhard Reinsberg"]
 ---

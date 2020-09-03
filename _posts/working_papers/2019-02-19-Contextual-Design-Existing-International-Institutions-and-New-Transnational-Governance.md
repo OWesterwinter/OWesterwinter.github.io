@@ -1,5 +1,5 @@
 ---
-title: "Contextual Design: Existing International Institutions and New Transnational Governance"
+title: "Contextual Design: Existing Intergovernmental Organizations and New Transnational Governance”"
 category: ["frontpage", "Working Paper"]
 ---
 I offer a systematic account of the creation and design of transnational public-private governance
